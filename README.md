@@ -8,6 +8,11 @@ venjulegur text
 
 ***bæði***
 
+```python
+for i in range(10):
+	print("Alex")
+```
+
 Heimasíða Tæknsikolans er [hér](https://tskoli.is)
 Hér er mynd: ![](https://tse2.mm.bing.net/th/id/OIP.Zd_vG0VfthXrAu
 
