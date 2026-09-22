@@ -9,7 +9,7 @@ venjulegur text
 ***bæði***
 
 Heimasíða Tæknsikolans er [hér](https://tskoli.is)
-Hér er mynd: ![](https://tse2.mm.bing.net/th/id/OIP.Zd_vG0VfthXrAu)
+Hér er mynd: ![](https://tse2.mm.bing.net/th/id/OIP.Zd_vG0VfthXrAu
 
 ### Raðaður listi
 
